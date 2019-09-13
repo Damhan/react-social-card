@@ -5,7 +5,10 @@ class SocialBar extends React.Component {
     render() {
         return (
             <div className="social-bar">
-              <p>Im a social bar</p>
+              <p className="inline" >icon</p>
+              <p className="inline" >icon</p>
+              <p className="inline" >icon</p>
+              <p className="inline" >icon</p>
             </div>
           );
     }

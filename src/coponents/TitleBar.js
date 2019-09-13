@@ -5,7 +5,12 @@ class TitleBar extends React.Component {
     render() {
         return (
             <div className="title-bar">
-              <p>Im a titlebar</p>
+                <div className="title-icon inline">
+                    <p>Im a icon</p>
+                </div>
+                <div className="title-header inline">
+                    <p>Im a post Title</p>   
+                </div>
             </div>
           );
     }
