@@ -1,5 +1,5 @@
 import React from 'react';
-import SocialCard from './coponents/SocialCard'
+import SocialCard from './components/SocialCard'
 import './App.css';
 
 function App() {
